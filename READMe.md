@@ -18,23 +18,6 @@
 
 # **RELEASES:** 
 
+
 # NOTE: 
-  - No commit has been done so far 
-
-
-# **APPS INSTALLED:**
-
-- Jenkins: 
-  - user=admin 
-  - passwd=admin123 
-  - port=8080 
-
-- Sonarqube: 
-  - user=admin 
-  - passwd=drama
-  - port=9000
-
-- Nexus: 
-  - user=admin 
-  - passwd=drama
-  - port=8082 
+  - The gitHub repository name is "vin-app.java"
